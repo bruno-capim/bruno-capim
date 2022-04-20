@@ -35,7 +35,7 @@ Default
 16
 17
 18
-<img align="right" width="400" height="400" src="https://thumbs.gfycat.com/DistantInsecureBaldeagle-max-1mb.gif">
+<img align="right" width="400" height="400" src="https://38.media.tumblr.com/bee7e5a1304ec557b3b446ba60f0f990/tumblr_ns9g5j3gku1r02u9ko1_400.gif">
  
 # Welcome!
  
