@@ -1,5 +1,5 @@
 # Yōkoso min'na :vulcan_salute:!
-<img align="center" width="400" height="400" src="https://i.pinimg.com/originals/67/6c/af/676caf34754c21aa4f0ca91ebcd44932.gif">
+<img align="center" width="200" height="200" src="https://i.pinimg.com/originals/67/6c/af/676caf34754c21aa4f0ca91ebcd44932.gif">
 ## Watashinonamaeha Bruno-san!
 
 - :heart_on_fire: Desenvolvedor full-stack junior em ascenção.
