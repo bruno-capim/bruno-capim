@@ -6,7 +6,7 @@
 - 	:man_student: Estudando Angular e React JS.
 - 	♥️ Amo tecnologia e os desafios da programação.
 
-## Projetos
+## Projetos disponíveis na aba *Repositories*
 
 - Dino-Game
 - Call-Of-Air
