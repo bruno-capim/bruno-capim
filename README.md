@@ -1,7 +1,11 @@
 # Yōkoso min'na :vulcan_salute:!
 <img align="left" width="300" height="250" src="https://i.pinimg.com/originals/67/6c/af/676caf34754c21aa4f0ca91ebcd44932.gif">
 
+## Watashinonamaeha Bruno-san!
 
+- :heart_on_fire: Desenvolvedor full-stack junior em ascenção.
+- 	:man_student: Estudando Angular e React JS.
+- 	♥️ Amo tecnologia e os desafios da programação.
 
 ## Skills
 
@@ -13,12 +17,6 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-## Watashinonamaeha Bruno-san!
-
-- :heart_on_fire: Desenvolvedor full-stack junior em ascenção.
-- 	:man_student: Estudando Angular e React JS.
-- 	♥️ Amo tecnologia e os desafios da programação.
 
 ## Projetos disponíveis na aba *Repositories*
 
