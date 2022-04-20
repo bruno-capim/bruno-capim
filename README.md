@@ -35,7 +35,7 @@ Default
 16
 17
 18
-<img align="right" width="400" height="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="400" height="400" src="https://thumbs.gfycat.com/DistantInsecureBaldeagle-max-1mb.gif">
  
 # Welcome!
  
