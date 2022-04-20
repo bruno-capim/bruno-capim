@@ -2,7 +2,7 @@
 <img align="center" width="200" height="150" src="https://i.pinimg.com/originals/67/6c/af/676caf34754c21aa4f0ca91ebcd44932.gif">
 
 ##Tecnologias
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+<img https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
 
 ## Watashinonamaeha Bruno-san!
 
