@@ -2,9 +2,8 @@
 
 ## Watashinonamaeha Bruno-san!
 
-###Sobre mim
-
-- :heart_on_fire: Desenvolvedor full-stack junior em ascenção
+- :heart_on_fire: Desenvolvedor full-stack junior em ascenção.
+- 	:man_student: Estudando Angular e React JS.
 
 ## Minhas Redes
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github)
