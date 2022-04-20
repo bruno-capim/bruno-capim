@@ -1,5 +1,6 @@
 # Yōkoso min'na :vulcan_salute:!
-<img aling="right" margin-left="auto" margin-right="auto" width="200" height="150" src="https://i.pinimg.com/originals/67/6c/af/676caf34754c21aa4f0ca91ebcd44932.gif">
+
+<img align="right" width="200" height="150" src="https://i.pinimg.com/originals/67/6c/af/676caf34754c21aa4f0ca91ebcd44932.gif"> 
 
 
 ## Watashinonamaeha Bruno-san!
