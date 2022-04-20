@@ -1,5 +1,5 @@
-Default
-<img align="right" width="400" height="400" src="https://giphy.com/gifs/developer-germano-obrunogermano-eGlWh8b2oDeSuFjGM6">
+
+<img align="right" width="400" height="200" src="https://38.media.tumblr.com/bee7e5a1304ec557b3b446ba60f0f990/tumblr_ns9g5j3gku1r02u9ko1_400.gif">
 
 # Welcome!
 
@@ -35,7 +35,6 @@ Default
 16
 17
 18
-<img align="right" width="400" height="200" src="https://38.media.tumblr.com/bee7e5a1304ec557b3b446ba60f0f990/tumblr_ns9g5j3gku1r02u9ko1_400.gif">
  
 # Welcome!
  
