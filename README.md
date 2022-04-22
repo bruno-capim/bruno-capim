@@ -6,7 +6,7 @@
 ## Watashinonamaeha Bruno-san!
 
 - :heart_on_fire: Desenvolvedor full-stack junior em ascenção.
-- 	:man_student: Estudando Angular e React JS.
+- 	:man_student: Estudando Angular, React JS e Spring Boot.
 - 	♥️ Amo tecnologia e os desafios da programação.
 
 ## Skills 
