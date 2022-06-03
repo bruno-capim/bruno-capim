@@ -25,7 +25,8 @@
 - BootStrap
 - My-Clock
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=@bruno-capim=anuraghazra&hide=contribs,prs)
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=bruno-capim&show_icons=true)
 
 ## Entre em contato comigo!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-antunes-5a4053204/)](https://www.linkedin.com/in/bruno-antunes-5a4053204/)
