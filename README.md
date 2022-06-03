@@ -25,6 +25,8 @@
 - BootStrap
 - My-Clock
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bruno-capim=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Entre em contato comigo!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-antunes-5a4053204/)](https://www.linkedin.com/in/bruno-antunes-5a4053204/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loginobsequio@gmail.com)](mailto:loginobsequio@gmail.com)
