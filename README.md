@@ -8,9 +8,7 @@
 
 ## Skills 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-capim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=bruno-capim&show_icons=true) 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-capim&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-capim&show_icons=true&theme=radical)
 
