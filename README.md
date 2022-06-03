@@ -27,6 +27,7 @@
 
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=bruno-capim&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-capim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entre em contato comigo!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-antunes-5a4053204/)](https://www.linkedin.com/in/bruno-antunes-5a4053204/)
