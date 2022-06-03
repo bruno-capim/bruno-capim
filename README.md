@@ -10,6 +10,7 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-capim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="right" width="200" height="150" src="https://i.pinimg.com/originals/67/6c/af/676caf34754c21aa4f0ca91ebcd44932.gif"> 
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=bruno-capim&show_icons=true) 
 
