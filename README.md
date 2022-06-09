@@ -6,7 +6,7 @@
 - 	:man_student: Estudando Angular, React JS e Spring Boot.
 - 	♥️ Amo tecnologia e os desafios da programação.
 
-## Skills 
+## Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-capim&show_icons=true&theme=radical)
 
