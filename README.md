@@ -6,8 +6,6 @@
 - 	:man_student: Estudando Angular, React JS e Spring Boot.
 - 	♥️ Amo tecnologia e os desafios da programação.
 
-## Stats 
-
 <div align="center">
   <h2> ⚙️Analytics </h2>
 
