@@ -3,6 +3,7 @@
 </p>
 
 Acesse: [Tinkercad](http://https://www.tinkercad.com/ "Tinkercad")
+Meu perfil: bruno.capim
 
 <div align="center">
   <h2>⚙️ Análise</h2>
