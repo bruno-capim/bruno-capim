@@ -1,12 +1,9 @@
 # Yōkoso min'na :vulcan_salute:! Watashinonamaeha Bruno desu!
-<p>Sou técnico em desenvolvimento de sistemas e atualmente estudo as linguagens Javascript e Angular. Já tive contato com Bootstrap, Wordpress e programação com arduino utilizando a plataforma do [Tinkercad](http://https://www.tinkercad.com/ "Tinkercad"). Ainda não me considero um júnior, mas um desenvolvedor em ascensão para me tornar um desenvolvedor full-stack
+<p>Sou técnico em desenvolvimento de sistemas e atualmente estudo as linguagens Javascript e Angular. Já tive contato com Bootstrap, Wordpress e programação com arduino utilizando a plataforma do Tinkercad. Ainda não me considero um júnior, mas um desenvolvedor em ascensão para me tornar um desenvolvedor full-stack
 </p>
 
-
-
-
 <div align="center">
-  <h2>⚙️ Analytics</h2>
+  <h2>⚙️ Análise</h2>
 
   <a href="https://github.com/bruno-capim">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-capim&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
@@ -14,7 +11,7 @@
   </a>
   
   <div sling="center">
-    <h2>Languages :computer:</h2>
+    <h2>línguas :computer:</h2>
 <img aling="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img aling="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,5 +27,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loginobsequio@gmail.com)](mailto:loginobsequio@gmail.com)
 
 - Obrigado pela visita!. 
+ 
+- Referências.
+  [Tinkercad](http://https://www.tinkercad.com/ "Tinkercad")
  
 - Volte sempre!!
