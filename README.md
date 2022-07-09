@@ -1,7 +1,9 @@
 # Yōkoso min'na :vulcan_salute:! Watashinonamaeha Bruno desu!
 <p>Sou técnico em desenvolvimento de sistemas e atualmente estudo as linguagens Javascript e Angular. Já tive contato com Bootstrap, Wordpress e programação com arduino utilizando a plataforma do Tinkercad. Ainda não me considero um júnior, mas um desenvolvedor em ascensão para me tornar um desenvolvedor full-stack
 </p>
-[Tinkercad](http://https://www.tinkercad.com/ "Tinkercad")
+
+Acesse: [Tinkercad](http://https://www.tinkercad.com/ "Tinkercad")
+
 <div align="center">
   <h2>⚙️ Análise</h2>
 
