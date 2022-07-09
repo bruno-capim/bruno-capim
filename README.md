@@ -13,7 +13,7 @@
 
   <a href="https://github.com/bruno-capim">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocapim&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocapim&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-capim&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
   </a>
 
 ## Languages
