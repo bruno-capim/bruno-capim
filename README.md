@@ -1,6 +1,7 @@
 # Yōkoso min'na :vulcan_salute:!
 
-## Watashinonamaeha Bruno desu!
+<h2>Watashinonamaeha Bruno desu!</h2>
+<p>Sou tecnico em desenvolvimento de sistemas e atualmente estudo as linguagens Java, JavaScript e Angular</p>
 
 
 
