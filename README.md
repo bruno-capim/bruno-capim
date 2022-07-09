@@ -31,4 +31,4 @@
 
 - Obrigado pela visita!. 
  
-- Volte sempre!! o/
+- Volte sempre!!
