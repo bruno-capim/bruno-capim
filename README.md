@@ -1,7 +1,7 @@
-# Yōkoso min'na :vulcan_salute:!
+# Yōkoso min'na :vulcan_salute:! Watashinonamaeha Bruno desu!
+<p>Sou técnico em desenvolvimento de sistemas e atualmente estudo as linguagens Javascript e Angular.
+   Já tive contato com Bootstrap, Wordpress e programação com arduino utilizando a plataforma do tinkercad. Ainda não me considero um junior, mas um desenvolvedor em ascenção para me tornar um desenvolvedor full-stack </p>
 
-<h2>Watashinonamaeha Bruno desu!</h2>
-<p>Sou tecnico em desenvolvimento de sistemas e atualmente estudo as linguagens Java, JavaScript e Angular</p>
 
 
 
