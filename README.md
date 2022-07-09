@@ -29,6 +29,6 @@
 - Obrigado pela visita!. 
  
 - Referências.
-  [Tinkercad](http://https://www.tinkercad.com/ "Tinkercad")
+[Tinkercad](http://https://www.tinkercad.com/ "Tinkercad")
  
 - Volte sempre!!
